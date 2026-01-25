@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "YourBrand - Modern Cloud Platform for Developers",
-  description: "Build, deploy, and scale your apps instantly. The modern cloud platform for developers with automatic deployment, managed databases, and global CDN.",
+  title: "Anthony - Creative Developer",
+  description: "A creative developer crafting digital experiences that blend design and technology. Portfolio showcasing web development projects and skills.",
 };
 
 export default function RootLayout({
